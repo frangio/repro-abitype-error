@@ -1,0 +1,16 @@
+{
+  "name": "repro-abitype-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abitype": "^0.10.1",
+    "typescript": "^5.2.2"
+  }
+}
